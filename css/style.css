@@ -1,0 +1,12 @@
+  body {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      background-color: black;
+      color: lightpink;
+  }
+
+  #top {
+      font-size: 25px;
+      padding-bottom: 3%;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-transform: uppercase;
+  }
